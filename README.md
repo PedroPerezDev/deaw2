@@ -1,6 +1,6 @@
-# 📚 Actividad DAWES - Tabla de compañeros
+# 📚 Actividad DEAW - Tabla de compañeros
 
-Bienvenidos al repositorio de la actividad de **DAWES**.  
+Bienvenidos al repositorio de la actividad de **DEAW**.  
 En este **README** voy a registrar el **nombre de los compañeros y sus perfiles de GitHub**.  
 
 ---
